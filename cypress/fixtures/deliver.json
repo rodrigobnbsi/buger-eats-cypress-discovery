@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Rodrigo Borborema",
+        "cpf": "09894858627",
+        "email": "rodrigob.nogueira@yahoo.com.br",
+        "whatsapp": "34999659522",
+        "address": {
+            "postalcode": "38400612",
+            "street": "Rua dos Pereiras",
+            "number": "233",
+            "details": "Perto da esquina",
+            "district": "Brasil",
+            "city_state": "Uberlândia/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Rodrigo Borborema",
+        "cpf": "098948586AA",
+        "email": "rodrigob.nogueira@yahoo.com.br",
+        "whatsapp": "34999659522",
+        "address": {
+            "postalcode": "38400612",
+            "street": "Rua dos Pereiras",
+            "number": "233",
+            "details": "Perto da esquina",
+            "district": "Brasil",
+            "city_state": "Uberlândia/MG"
+        },
+        "delivery_method": "Moto", 
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Rodrigo Borborema",
+        "cpf": "09894858627",
+        "email": "rodrigob.nogueira.yahoo.com.br",
+        "whatsapp": "34999659522",
+        "address": {
+            "postalcode": "38400612",
+            "street": "Rua dos Pereiras",
+            "number": "233",
+            "details": "Perto da esquina",
+            "district": "Brasil",
+            "city_state": "Uberlândia/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
